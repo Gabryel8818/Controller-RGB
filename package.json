@@ -1,0 +1,10 @@
+{
+  "name": "Electron-RGB-Controller",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gordalina/magic-home-cli": "^1.1.0",
+    "global": "^4.4.0"
+  }
+}
