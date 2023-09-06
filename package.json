@@ -4,7 +4,7 @@
   "main": "main.js",
   "license": "MIT",
   "dependencies": {
-    "@gordalina/magic-home-cli": "^1.1.0",
+    "@gordalina/magic-home-cli": "^2.9.0",
     "global": "^4.4.0"
   }
 }
